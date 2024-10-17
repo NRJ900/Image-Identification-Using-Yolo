@@ -2,6 +2,7 @@
 
 
 I have tried to implement basic image identification module in python using yolov5
+which consists of 5 versions build from basic to intermediate program.
 
 Yolo Link : "https://github.com/ultralytics/yolov5"
 
@@ -35,7 +36,7 @@ For Windows:
         "pip install torch torchvision opencv-python pillow requests"
 
 5.Run the program.
-
+ 
 
 
 
