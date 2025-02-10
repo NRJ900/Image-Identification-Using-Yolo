@@ -65,4 +65,5 @@ python detect.py --source image.jpg --weights yolov5s.pt --conf 0.4
 👤 **Neeraj S**  
 🔗 [GitHub](https://github.com/NRJ900) | [LinkedIn](https://www.linkedin.com/in/mani-s-neeraj/)  
 
+
 ---
